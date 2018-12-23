@@ -1,6 +1,6 @@
 App demoing Firebase Authentication. 
 
 Features include:
-- Registering a user
-- Logging in 
+- User registration
+- User log in
 - Password reset 
